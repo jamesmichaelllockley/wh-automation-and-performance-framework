@@ -4,10 +4,8 @@ import config.DriverFactory;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Set;
 
 public class SharedDriver extends EventFiringWebDriver {
 

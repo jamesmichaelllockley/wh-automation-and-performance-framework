@@ -1,14 +1,12 @@
 package pages.Betting;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import step_defs.SharedDriver;
 import pages.BasePage;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
-import java.util.List;
 
 import static junit.framework.TestCase.assertEquals;
 
