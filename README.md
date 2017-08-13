@@ -28,3 +28,4 @@ Cucumber report
  
  PERFORMANCE
  Running Engine found in: test/scala/performance/ will run the BDDScripts simulation. Which is recorded directly from the BDD cucumber scenarios within the same project 
+ Gatling report will be outputted to target/gatling
