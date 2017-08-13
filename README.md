@@ -1,12 +1,15 @@
 # wh-automation-and-performance-framework
 bdd framework including gatling performance plugin 
 
-AUTOMATION: 
 Pre requisutes: 
-- JAVA_HOME is preferabley JDK 1.7 or above
+- JAVA_HOME is JDK 1.8 
 - Maven installation configured (M2_HOME or bundled version with IDE (intelliJ)
 - project cloned and imported as a maven project 
+- Compiler SDK for project structure set to JAVA_HOME or 1.8
+- project language level set to 8 or above 
 
+
+AUTOMATION: 
 Running the autmated tests on Desktop: 
 
 Junit  - create a Junit run config pointing at RunCucumberTests.java 
